@@ -2,7 +2,7 @@
   "name": "@codiexy/nuxt-auth",
   "version": "1.0.0",
   "description": "Authentication for Nuxt App by Codiexy.",
-  "repository": "codiexy/nuxt-auth",
+  "repository": "https://github.com/codiexy/nuxt-auth",
   "license": "MIT",
   "type": "module",
   "exports": {

@@ -2,19 +2,19 @@
 Get your module up and running quickly.
 
 Find and replace all on all files (CMD+SHIFT+F):
-- Name: My Module
-- Package name: my-module
-- Description: My new Nuxt module
+- Name: Nuxt Auth
+- Package name: @codiexy/next-auth
+- Description: Authentication for Nuxt App
 -->
 
-# My Module
+# Codiexy Nuxt Auth
 
 [![npm version][npm-version-src]][npm-version-href]
 [![npm downloads][npm-downloads-src]][npm-downloads-href]
 [![License][license-src]][license-href]
 [![Nuxt][nuxt-src]][nuxt-href]
 
-My new Nuxt module for doing amazing things.
+Authentication for Nuxt App By Codiexy
 
 - [✨ &nbsp;Release Notes](/CHANGELOG.md)
 <!-- - [🏀 Online playground](https://stackblitz.com/github/your-org/my-module?file=playground%2Fapp.vue) -->
@@ -23,19 +23,19 @@ My new Nuxt module for doing amazing things.
 ## Features
 
 <!-- Highlight some of the features your module provide here -->
-- ⛰ &nbsp;Foo
-- 🚠 &nbsp;Bar
-- 🌲 &nbsp;Baz
+- ⛰ Auth Global
+- 🚠 Auth Guest
+- 🌲 Auth
 
 ## Quick Setup
 
 Install the module to your Nuxt application with one command:
 
 ```bash
-npx nuxi module add my-module
+npx nuxi module add @codiexy/nuxt-auth
 ```
 
-That's it! You can now use My Module in your Nuxt app ✨
+That's it! You can now use Codiexy Nuxt Auth in your Nuxt app ✨
 
 
 ## Contribution
